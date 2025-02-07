@@ -38,7 +38,7 @@ Se estiver utilizando o terminal, compile com:
 
 Após a compilação, execute com:
 
-    java -cp bin Principal
+    java -cp bin Main
 
 🔹 Funcionalidades Implementadas
 
