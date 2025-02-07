@@ -24,7 +24,7 @@ Principal: Classe com o main que executa as operações solicitadas.
 
 1️⃣ Clonar o repositório (caso esteja no GitHub)
 
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/devguilara/teste-pratico-Iniflex/)
+    git clone https://github.com/devguilara/teste-pratico-Iniflex/
     cd teste-pratico-Iniflex
 
 2️⃣ Compilar o projeto
